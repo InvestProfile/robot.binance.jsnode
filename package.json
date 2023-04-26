@@ -1,0 +1,19 @@
+{
+  "name": "robot.binance.jsnode",
+  "version": "1.0.0",
+  "description": "robot.binance.jsnode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InvestProfile/robot.binance.jsnode.git"
+  },
+  "author": "mil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InvestProfile/robot.binance.jsnode/issues"
+  },
+  "homepage": "https://github.com/InvestProfile/robot.binance.jsnode#readme"
+}
