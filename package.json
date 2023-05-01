@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/InvestProfile/robot.binance.jsnode#readme",
   "dependencies": {
-    "@binance/connector": "^3.0.0-rc.1"
+    "@binance/connector": "^3.0.0-rc.1",
+    "dotenv": "^16.0.3"
   }
 }
