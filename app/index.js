@@ -1,4 +1,13 @@
-console.log('index start');
+console.log('index by robot.binance.jsnode starts');
+
+
+require("./account").getInformation()
+require("./account").getInformation1()
+
+
+//require("./account.getInformation").getAccountInformation()
+
+/*
 
 //require("./getAccountInformation").getAccountInformation()
 
@@ -19,5 +28,6 @@ let symbol = 'RUNE' + 'USDT'
 
 require("./createOrder").createOrder(symbol, side, type, quantity, price, timeInForce)
 
+*/
 
 
