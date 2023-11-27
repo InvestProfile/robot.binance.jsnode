@@ -1,15 +1,11 @@
-console.log('index by robot.binance.jsnode starts');
+console.log('index by robot.binance.jsnode start');
 
 
-require("./account").getInformation()
-require("./account").getInformation1()
+require("./account").getAccount()
 
-
-//require("./account.getInformation").getAccountInformation()
 
 /*
 
-//require("./getAccountInformation").getAccountInformation()
 
 let symbol = 'RUNE' + 'USDT'
 

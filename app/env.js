@@ -2,11 +2,11 @@ console.log('getENV starts');
 
 require('dotenv').config();
 
-const Binance = ({
+const BinanceENV = ({
     apiKey: process.env.binance_apiKey,
     apiSecret: process.env.binance_apiSecret
 })
 
-exports.getEnv = () => {
-    return Binance
+exports.getENV = () => {
+    return BinanceENV
 }
